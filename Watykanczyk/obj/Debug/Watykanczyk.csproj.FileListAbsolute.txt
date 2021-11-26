@@ -1,0 +1,17 @@
+C:\Users\Michalskyyxd\source\repos\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.csprojAssemblyReference.cache
+C:\Users\Michalskyyxd\source\repos\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.Form1.resources
+C:\Users\Michalskyyxd\source\repos\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.Properties.Resources.resources
+C:\Users\Michalskyyxd\source\repos\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.csproj.GenerateResource.cache
+C:\Users\Michalskyyxd\source\repos\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Watykanczyk\Watykanczyk\bin\Debug\Watykanczyk.exe.config
+E:\Visual Studio\Watykanczyk\Watykanczyk\bin\Debug\Watykanczyk.exe
+E:\Visual Studio\Watykanczyk\Watykanczyk\bin\Debug\Watykanczyk.pdb
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.csproj.AssemblyReference.cache
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.Form1.resources
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.Properties.Resources.resources
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.csproj.GenerateResource.cache
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.exe
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.pdb
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.Form2.resources
+E:\Visual Studio\Watykanczyk\Watykanczyk\obj\Debug\Watykanczyk.Form3.resources
